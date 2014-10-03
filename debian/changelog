@@ -1,3 +1,9 @@
+ppp (2.4.5-5.1ubuntu2.awh1) UNRELEASED; urgency=medium
+
+  * Backport 1500 byte PPPoe MTU patch
+
+ -- Adam Harrison <harrisonadamw@gmail.com>  Fri, 03 Oct 2014 12:45:09 +0100
+
 ppp (2.4.5-5.1ubuntu2) raring-proposed; urgency=low
 
   * add EAPTLS-MPPE 0.994 patch from http://www.nikhef.nl/~janjust/ppp/
