@@ -43,3 +43,6 @@ zzz_config
 # ubuntu
 load_ppp_generic_if_needed
 ppp-2.4.5-eaptls-mppe-0.994.patch
+
+# awh backports
+0001-rp-pppoe-allow-MTU-to-be-increased-up-to-1500.patch
